@@ -24,3 +24,4 @@ Welcome to PetMatch, where furry friends find companionship! PetMatch is a web a
 
 ## Resources
 
+- [Trello Board](https://trello.com/b/0Hqs7q0c/petmatch)
